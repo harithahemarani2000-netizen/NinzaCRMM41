@@ -18,10 +18,5 @@
 </dependency>
 
 
-  	<dependency>
-  		<groupId>AdvSeleniumM41</groupId>
-  		<artifactId>AdvSeleniumM41</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
   </dependencies>
 </project>
