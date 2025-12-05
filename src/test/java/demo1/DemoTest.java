@@ -9,7 +9,8 @@ public class DemoTest {
 	{
 		System.out.println("dhoni");
 		System.out.println("rohit");
-		System.out.println("sachin");	
+		System.out.println("sachin");
+		System.out.println("hema");
 	}
 
 }
